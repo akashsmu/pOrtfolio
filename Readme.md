@@ -1,5 +1,5 @@
 # Project Title
-The name of the Project
+Portfolio Website
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
@@ -16,7 +16,7 @@ Access my site at [google.com](https://google.com)
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+[Name of project] is an app that provides details on who me is :) 
 
 ## Screenshots
 
@@ -25,7 +25,7 @@ Access my site at [google.com](https://google.com)
 Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
-I used `html`, `css`, ...
+I used `html`, `css`, `reactjs`,`tailwind css`,`firebase`
 
 ## Setup
 - download or clone the repository
@@ -40,9 +40,6 @@ I adopted the `BEM` naming style for my css class names and ...
 
 ## Credits
 List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- [Akash](santebennurmatadaumapathi.1@osu.edu)
 
-## License
 
-MIT license @ [author](author.com)
