@@ -49,15 +49,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Python developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Cloud Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Blockchain and Quantum Computing Enthusiast",
     icon: creator,
   },
 ];
@@ -115,6 +115,26 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  {
+    name: "matlab",
+    icon: docker,
+  },
+  {
+    name: "python",
+    icon: docker,
+  },
+  {
+    name: "fastapi",
+    icon: docker,
+  },
+  {
+    name: "monai",
+    icon: docker,
+  },
+  {
+    name: "aws",
+    icon: docker,
+  },
 ];
 
 const experiences = [
@@ -125,10 +145,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed algorithm to segment plasma cancer cells,namely myeloma, by implementing various Unet models and transfer learning techniques.The model was trained on small dataset and for different scenarios of plasma cells. The model developed was 5% efficient and produced an accuracy of 87%.",
+      "Worked on Monai Framework to develop a Unet model to segment a liver from CT or MRI scans. Performed visualization and annotation using tools like 3D slicer and ITK snap.",
     ],
   },
   {
@@ -138,6 +156,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
+      "Led multi-disciplinary 5 person team to design, develop, and launch online website; prioritized and resolved 45+ new features and bug fixes.",
+      "Improved outreach of the company which accelerated revenue growth by 25% and redesigned admin processes",
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -151,10 +171,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Performed Data Cleanup and Transformation of data using Tools like Alteryx and Python through automation which treamlined the process by 45%.",
+      "Developed Pipelines for forecasting and monitoring by implementing ML models on AWS resulting in better decision making, enhanced training efficiency by 10 % and reduction of 20% in cost.",
+      "Promoted within 12 months due to strong performance and organizational impact.",
+      "Facilitated Workshops on ETL concepts for over 50+ peers.",
     ],
   },
   // {
