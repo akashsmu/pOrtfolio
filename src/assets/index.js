@@ -20,14 +20,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
+import aws from "./tech/aws.png";
+import matlab from "./tech/matlab.png";
+import sql from "./tech/sql.png";
+import tableau from "./tech/tableau.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import pwc from "./company/pwc.png";
-import philips from "./company/philips.png";
 import gramiksha from "./company/gramiksha.png";
+import philips from "./company/philips.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -45,6 +50,9 @@ export {
   css,
   docker,
   figma,
+  pwc,
+  gramiksha,
+  philips,
   git,
   html,
   javascript,
@@ -58,11 +66,13 @@ export {
   meta,
   shopify,
   starbucks,
-  pwc,
-  philips,
-  gramiksha,
   tesla,
   carrent,
   jobit,
   tripguide,
+  python,
+  aws,
+  matlab,
+  sql,
+  tableau,
 };

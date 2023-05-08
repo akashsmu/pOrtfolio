@@ -31,10 +31,13 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
+    // template_hmh1dtg
+    //service_d41oj9s
+    //ZgmwzoFK7ZFrg8xcO
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        "service_d41oj9s",
+        "template_muj49ms",
         {
           from_name: form.name,
           to_name: "Akash",
@@ -42,7 +45,7 @@ const Contact = () => {
           to_email: "santebennurmatadaumapathi.1@osu.edu",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        "ZgmwzoFK7ZFrg8xcO"
       )
       .then(
         () => {
