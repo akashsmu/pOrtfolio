@@ -33,6 +33,7 @@ import tesla from "./company/tesla.png";
 import pwc from "./company/pwc.png";
 import gramiksha from "./company/gramiksha.png";
 import philips from "./company/philips.png";
+import iotiot from "./company/iotiot.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -75,4 +76,5 @@ export {
   matlab,
   sql,
   tableau,
+  iotiot,
 };

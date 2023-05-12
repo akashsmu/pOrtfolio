@@ -31,6 +31,7 @@ import {
   matlab,
   sql,
   tableau,
+  iotiot,
 } from "../assets";
 
 export const navLinks = [
@@ -132,6 +133,19 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Associate 2",
+    company_name: "PriceWaterhouseCoopers",
+    icon: pwc,
+    iconBg: "#383E56",
+    date: "Jan 2021 - Jul 2022",
+    points: [
+      "Performed Data Cleanup and Transformation of data using Tools like Alteryx and Python through automation which streamlined the process by 45%.",
+      "Developed Pipelines for forecasting and monitoring by implementing ML models on AWS resulting in better decision making, enhanced training efficiency by 10 % and reduction of 20% in cost.",
+      "Promoted within 12 months due to strong performance and organizational impact.",
+      "Facilitated Workshops on ETL concepts for over 50+ peers.",
+    ],
+  },
+  {
     title: "Intern",
     company_name: "Philips",
     icon: philips,
@@ -157,18 +171,17 @@ const experiences = [
     ],
   },
   {
-    title: "Associate 2",
-    company_name: "PriceWaterhouseCoopers",
-    icon: pwc,
-    iconBg: "#383E56",
-    date: "Jan 2021 - Jul 2022",
+    title: "React Developer",
+    company_name: "IoTIoT",
+    icon: iotiot,
+    iconBg: "#E6DEDD",
+    date: "Jan 2019 - Jun 2019",
     points: [
-      "Performed Data Cleanup and Transformation of data using Tools like Alteryx and Python through automation which streamlined the process by 45%.",
-      "Developed Pipelines for forecasting and monitoring by implementing ML models on AWS resulting in better decision making, enhanced training efficiency by 10 % and reduction of 20% in cost.",
-      "Promoted within 12 months due to strong performance and organizational impact.",
-      "Facilitated Workshops on ETL concepts for over 50+ peers.",
+      "Developed a responsive and user-friendly website using React JS and Node JS and hosted Machine learning models which was deployed on an edge computing device, reducing latency and increased performance, resulting in 20% decrease in response time.",
+      "Collaborated with cross-functional teams to ensure the smooth functioning of the website and resolve any issues that arose, resulting in zero downtime during my tenure.",
     ],
   },
+
   // {
   //   title: "Full stack Developer",
   //   company_name: "Meta",
